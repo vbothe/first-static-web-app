@@ -1,0 +1,12 @@
+<svg width="50" height="90" viewBox="0 0 50 90" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:figma="http://www.figma.com/figma/ns">
+<title>EngageAdmin_phone</title>
+<desc>Created using Figma</desc>
+<g id="Canvas" transform="translate(342 -16)" figma:type="canvas">
+<g id="EngageAdmin_phone" figma:type="vector-operation">
+<use xlink:href="#path0_fill" transform="translate(-342 16)" fill="#FFFFFF"/>
+</g>
+</g>
+<defs>
+<path id="path0_fill" fill-rule="evenodd" d="M 0 4C 0 1.79086 1.79086 0 4 0L 46 0C 48.2091 0 50 1.79086 50 4L 50 86C 50 88.2091 48.2091 90 46 90L 4 90C 1.79086 90 0 88.2091 0 86L 0 4ZM 6 14.5581C 6 13.4536 6.89542 12.5581 8 12.5581L 42 12.5581C 43.1046 12.5581 44 13.4536 44 14.5581L 44 75.4419C 44 76.5464 43.1046 77.4419 42 77.4419L 8 77.4419C 6.89542 77.4419 6 76.5464 6 75.4419L 6 14.5581ZM 25 87.907C 27.2091 87.907 29 86.0328 29 83.7209C 29 81.409 27.2091 79.5349 25 79.5349C 22.7909 79.5349 21 81.409 21 83.7209C 21 86.0328 22.7909 87.907 25 87.907Z"/>
+</defs>
+</svg>
